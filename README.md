@@ -5,7 +5,7 @@ Simple Subset Sum solver for Knapsack problem
 Let assume we have a list of positive double, with value between 0 and 10000.
 Given a number *T*, between 0 and 10000, there exist a set of value in the list whose sum is no greater than *T*?
 
-So, in the end, this is a simple solver for the well-known Knapsack problem.
+So, in the end, this is a simple solver for the well-known [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem).
 
 Assumption:
 * values are between 0 and 10000
