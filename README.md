@@ -1,5 +1,5 @@
 # AccountantsDilemma
-Simple Subset Sum solver for Knapsack problem
+Simple Subset Sum solver for Knapsack problem. Solved using [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming).
 
 ## Description ##
 Let assume we have a list of positive double, with value between 0 and 10000.
